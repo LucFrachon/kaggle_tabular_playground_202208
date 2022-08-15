@@ -1,0 +1,8 @@
+{
+      "logisticregression__C": [0.1, 1, 10],
+      "logisticregression__penalty": ["l2", "l1", "elasticnet"],
+      "logisticregression__fit_intercept": [true],
+      "logisticregression__class_weight": ["balanced"],
+      "logisticregression__solver": ["saga"],
+      "logisticregression__l1_ratio": [0.1, 0.5, 0.9]
+}
